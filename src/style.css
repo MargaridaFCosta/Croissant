@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+a {
+  color: chocolate;
+  margin: 10px;
+}
+
+img {
+  margin-bottom: 30px;
+}
+
+.mailto {
+  color: blue;
+  margin: 0;
+}
